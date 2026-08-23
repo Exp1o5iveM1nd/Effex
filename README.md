@@ -1,2 +1,2 @@
 # Effex
-Effex by Exp1o5iveM1nd is a Windows-exclusive tool that brings the requested Ripple Click effect directly to your screen, adding a clean visual response to every mouse click. Lightweight, simple, and built for performance. No malware, spyware, hidden payloads, or malicious components. Just a clean visual effect for Windows.
+𝐄𝐟𝐟𝐞𝐱 𝐛𝐲 𝐄𝐱𝐩𝟏𝐨𝟓𝐢𝐯𝐞𝐌𝟏𝐧𝐝 𝐢𝐬 𝐚 𝐖𝐢𝐧𝐝𝐨𝐰𝐬-𝐞𝐱𝐜𝐥𝐮𝐬𝐢𝐯𝐞 𝐭𝐨𝐨𝐥 𝐭𝐡𝐚𝐭 𝐛𝐫𝐢𝐧𝐠𝐬 𝐭𝐡𝐞 𝐫𝐞𝐪𝐮𝐞𝐬𝐭𝐞𝐝 𝐑𝐢𝐩𝐩𝐥𝐞 𝐂𝐥𝐢𝐜𝐤 𝐞𝐟𝐟𝐞𝐜𝐭 𝐝𝐢𝐫𝐞𝐜𝐭𝐥𝐲 𝐭𝐨 𝐲𝐨𝐮𝐫 𝐬𝐜𝐫𝐞𝐞𝐧, 𝐚𝐝𝐝𝐢𝐧𝐠 𝐚 𝐜𝐥𝐞𝐚𝐧 𝐯𝐢𝐬𝐮𝐚𝐥 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐞 𝐭𝐨 𝐞𝐯𝐞𝐫𝐲 𝐦𝐨𝐮𝐬𝐞 𝐜𝐥𝐢𝐜𝐤. 𝐋𝐢𝐠𝐡𝐭𝐰𝐞𝐢𝐠𝐡𝐭, 𝐬𝐢𝐦𝐩𝐥𝐞, 𝐚𝐧𝐝 𝐛𝐮𝐢𝐥𝐭 𝐟𝐨𝐫 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞. 𝐍𝐨 𝐦𝐚𝐥𝐰𝐚𝐫𝐞, 𝐬𝐩𝐲𝐰𝐚𝐫𝐞, 𝐡𝐢𝐝𝐝𝐞𝐧 𝐩𝐚𝐲𝐥𝐨𝐚𝐝𝐬, 𝐨𝐫 𝐦𝐚𝐥𝐢𝐜𝐢𝐨𝐮𝐬 𝐜𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬. 𝐉𝐮𝐬𝐭 𝐚 𝐜𝐥𝐞𝐚𝐧 𝐯𝐢𝐬𝐮𝐚𝐥 𝐞𝐟𝐟𝐞𝐜𝐭 𝐟𝐨𝐫 𝐖𝐢𝐧𝐝𝐨𝐰𝐬.
